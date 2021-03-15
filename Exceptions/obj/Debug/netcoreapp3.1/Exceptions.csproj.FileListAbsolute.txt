@@ -1,0 +1,13 @@
+C:\Users\dev\source\repos\Leeson7_Turples,Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.exe
+C:\Users\dev\source\repos\Leeson7_Turples,Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.deps.json
+C:\Users\dev\source\repos\Leeson7_Turples,Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.json
+C:\Users\dev\source\repos\Leeson7_Turples,Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.runtimeconfig.dev.json
+C:\Users\dev\source\repos\Leeson7_Turples,Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.dll
+C:\Users\dev\source\repos\Leeson7_Turples,Exceptions\Exceptions\bin\Debug\netcoreapp3.1\Exceptions.pdb
+C:\Users\dev\source\repos\Leeson7_Turples,Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csprojAssemblyReference.cache
+C:\Users\dev\source\repos\Leeson7_Turples,Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\Leeson7_Turples,Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.AssemblyInfo.cs
+C:\Users\dev\source\repos\Leeson7_Turples,Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\Leeson7_Turples,Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.dll
+C:\Users\dev\source\repos\Leeson7_Turples,Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.pdb
+C:\Users\dev\source\repos\Leeson7_Turples,Exceptions\Exceptions\obj\Debug\netcoreapp3.1\Exceptions.genruntimeconfig.cache

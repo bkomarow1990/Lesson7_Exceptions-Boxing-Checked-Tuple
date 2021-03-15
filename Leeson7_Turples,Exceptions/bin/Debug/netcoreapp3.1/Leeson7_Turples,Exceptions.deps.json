@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Leeson7_Turples,Exceptions/1.0.0": {
+        "runtime": {
+          "Leeson7_Turples,Exceptions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Leeson7_Turples,Exceptions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
