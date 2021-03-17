@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g1/p9Ykm51pyktpsOfmwWV0ZMDsTYxhk53DHSrzg/8GWDrGUlNZpWZPWtC7j52MHvl1HWoZjqsD0NXxPb1ewbg==",
+  "dgSpecHash": "AE5m7rxhhwmkFHcgc/Lmpn5mDC6Vg++sW2mLLRQp+I+yhcbyNc6EGk9cUf4l+jIcmfzDjqcZbydx4s5y2uB75g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dev\\source\\repos\\Leeson7_Turples,Exceptions\\Exceptions\\Exceptions.csproj",
+  "projectFilePath": "C:\\Users\\Igor\\source\\repos\\Lesson7_Exceptions-Boxing-Checked-Tuple\\Exceptions\\Exceptions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

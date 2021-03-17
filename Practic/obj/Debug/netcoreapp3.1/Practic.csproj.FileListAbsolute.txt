@@ -1,0 +1,13 @@
+C:\Users\Igor\source\repos\Lesson7_Exceptions-Boxing-Checked-Tuple\Practic\bin\Debug\netcoreapp3.1\Practic.exe
+C:\Users\Igor\source\repos\Lesson7_Exceptions-Boxing-Checked-Tuple\Practic\bin\Debug\netcoreapp3.1\Practic.deps.json
+C:\Users\Igor\source\repos\Lesson7_Exceptions-Boxing-Checked-Tuple\Practic\bin\Debug\netcoreapp3.1\Practic.runtimeconfig.json
+C:\Users\Igor\source\repos\Lesson7_Exceptions-Boxing-Checked-Tuple\Practic\bin\Debug\netcoreapp3.1\Practic.runtimeconfig.dev.json
+C:\Users\Igor\source\repos\Lesson7_Exceptions-Boxing-Checked-Tuple\Practic\bin\Debug\netcoreapp3.1\Practic.dll
+C:\Users\Igor\source\repos\Lesson7_Exceptions-Boxing-Checked-Tuple\Practic\bin\Debug\netcoreapp3.1\Practic.pdb
+C:\Users\Igor\source\repos\Lesson7_Exceptions-Boxing-Checked-Tuple\Practic\obj\Debug\netcoreapp3.1\Practic.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\Lesson7_Exceptions-Boxing-Checked-Tuple\Practic\obj\Debug\netcoreapp3.1\Practic.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\Lesson7_Exceptions-Boxing-Checked-Tuple\Practic\obj\Debug\netcoreapp3.1\Practic.AssemblyInfo.cs
+C:\Users\Igor\source\repos\Lesson7_Exceptions-Boxing-Checked-Tuple\Practic\obj\Debug\netcoreapp3.1\Practic.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Lesson7_Exceptions-Boxing-Checked-Tuple\Practic\obj\Debug\netcoreapp3.1\Practic.dll
+C:\Users\Igor\source\repos\Lesson7_Exceptions-Boxing-Checked-Tuple\Practic\obj\Debug\netcoreapp3.1\Practic.pdb
+C:\Users\Igor\source\repos\Lesson7_Exceptions-Boxing-Checked-Tuple\Practic\obj\Debug\netcoreapp3.1\Practic.genruntimeconfig.cache
